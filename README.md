@@ -10,3 +10,5 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,github,vscode" />
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rui319420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
