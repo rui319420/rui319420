@@ -13,5 +13,5 @@
   
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rui319420&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=rui319420&theme=tokyonight" alt="GitHub Streak" />
 </div>
