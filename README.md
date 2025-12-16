@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 🛠 Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,git,github,vscode" />
@@ -13,5 +11,5 @@
   
   <br>
   <br>
-    <img src="https://streak-stats.demolab.com/?user=rui319420&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rui319420&theme=github-compact" alt="Activity Graph" />
 </div>
