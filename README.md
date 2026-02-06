@@ -1,6 +1,6 @@
 ### 🛠 Learning
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,vite,html,css,git,github,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cs,react,nextjs,vite,html,css,git,github,vscode,vim,unity" />
 </div>
 <br>
 
