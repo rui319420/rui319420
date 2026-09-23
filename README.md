@@ -1,13 +1,4 @@
-### 🛠 Learning
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,c,react,nextjs,vite,git,github,vscode" />
-</div>
-<br>
-
-### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats-gray-eta-3mp47x6wql.vercel.app/api?username=rui319420&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rui319420&theme=tokyonight" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats-gray-eta-3mp47x6wql.vercel.app/api/top-langs/?username=rui319420&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rui319420&theme=tokyonight&utcOffset=9" />
+  <img src="https://github-stats-gold-eight.vercel.app/api/languages.svg?username=rui319420&amp;count=10&amp;theme=github-dark&amp;boundary=top&amp;size=420&amp;border=true&amp;animated=true&amp;interval=2&amp;github_colors=true&amp;hide=ShaderLab%2CBlade%2CHLSL%2CBatchfile&amp;transparent=true&amp;include_private=true&amp;card_token=v1.wd0ejvSeo9ZrOJvJ.3uO0CSqkNfYofxtm5ch69g.-Up5FUbrI6BhBO8dT72g_DbEXMekkii3eQCVjeoAF4z6PYUFKlf89tf692hPk0Ap4ottqct1FP9ZMiKaLKoegSmWoz7q5b9IHQo-8169qrNw" alt="rui319420 の GitHub 使用言語" />
 </div>
